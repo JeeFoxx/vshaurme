@@ -1,3 +1,5 @@
 cat .gitignore
+
 /.vscode
 /.idea
+*.sqlite3
